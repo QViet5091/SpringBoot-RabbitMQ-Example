@@ -1,0 +1,12 @@
+com/example/rabbitMQ/config/RabbitMQConfig.java
+ com.example.rabbitMQ.config.RabbitMQConfig
+com/example/rabbitMQ/config/RabbitMQConfigV2.java
+ com.example.rabbitMQ.config.RabbitMQConfigV2
+com/example/rabbitMQ/controller/MessageController.java
+ com.example.rabbitMQ.controller.MessageController
+com/example/rabbitMQ/model/MessageObject.java
+ com.example.rabbitMQ.model.MessageObject
+com/example/rabbitMQ/config/RabbitTemplateConfig.java
+ com.example.rabbitMQ.config.RabbitTemplateConfig
+com/example/rabbitMQ/RabbitMqApplication.java
+ com.example.rabbitMQ.RabbitMqApplication
